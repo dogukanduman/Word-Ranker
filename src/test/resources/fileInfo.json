@@ -1,0 +1,17 @@
+[
+  {
+    "name": "testSample1.txt",
+    "wordCount": 91,
+    "path": "/testSample1.txt"
+  },
+  {
+    "name": "testSample2.txt",
+    "wordCount":130,
+    "path": "/subdirectory1/testSample2.txt"
+  },
+  {
+    "name": "testSample1.txt",
+    "wordCount": 120,
+    "path": "/testSample3.txt"
+  }
+]
